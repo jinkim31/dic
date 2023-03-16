@@ -1,0 +1,11 @@
+prefix=/usr/local/fftw3
+exec_prefix=/usr/local/fftw3
+libdir=/usr/local/fftw3/lib
+includedir=/usr/local/fftw3/include
+
+Name: FFTW
+Description: fast Fourier transform library
+Version: 3.3.9
+Libs: -L${libdir} -lfftw3 
+Libs.private: -lm
+Cflags: -I${includedir}

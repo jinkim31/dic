@@ -1,3 +1,9 @@
 [submodule "lib/OpenCorr"]
 	path = lib/OpenCorr
 	url = https://github.com/vincentjzy/OpenCorr.git
+[submodule "lib/eigen"]
+	path = lib/eigen
+	url = https://gitlab.com/libeigen/eigen.git
+[submodule "lib/nanoflann"]
+	path = lib/nanoflann
+	url = https://github.com/jlblancoc/nanoflann.git
