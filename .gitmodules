@@ -1,0 +1,3 @@
+[submodule "lib/OpenCorr"]
+	path = lib/OpenCorr
+	url = https://github.com/vincentjzy/OpenCorr.git
